@@ -1,5 +1,5 @@
 <p align="center">
-    <br><b>😫 𝗦𝘁𝗮𝗿 𝗠𝘂𝘀𝗶𝗰 😫</b><br>
+    <br><b>😫 Muksn music 😫</b><br>
 </p>
 <p align="center"><a href="https://t.me/Best_FriendsFor_Evet"><img src="https://telegra.ph/file/252fc4a5c64895b0e539c.jpg"></a></p>
 
