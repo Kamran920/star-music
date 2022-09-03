@@ -1,9 +1,9 @@
 <p align="center">
-    <br><b>😫 Muksn music 😫</b><br>
+    <br><b>🥶 Muksn music 🥶</b><br>
 </p>
-<p align="center"><a href="https://t.me/Best_FriendsFor_Evet"><img src="https://telegra.ph/file/252fc4a5c64895b0e539c.jpg"></a></p>
+<p align="center"><a href="https://t.me/Team_xo_chatting_group"><img src="https://telegra.ph/file/3aa83451f7fb38a18e693.jpg"></a></p>
 
-Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
+Muskan Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/Starboihacks369/star-music?style=for-the-badge" alt="Stars">
