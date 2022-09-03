@@ -1,9 +1,9 @@
 {
-  "name": "sᴛᴀʀ ᴍᴜsɪᴄ",
-  "logo": "https://telegra.ph/file/252fc4a5c64895b0e539c.jpg",
-  "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
-  "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/Starboihacks369/star-music",
+  "name": "Muskan music",
+  "logo": "https://telegra.ph/file/3aa83451f7fb38a18e693.jpg",
+  "description": "A Muskan music SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by muskan.",
+  "keywords": ["music", "voicechat", "telegram", "Muskan"],
+  "repository": "https://github.com/Kamran920/star-music.",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
